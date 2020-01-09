@@ -7,7 +7,7 @@
 
 2. Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
 ![Диаграмма](https://user-images.githubusercontent.com/31893521/72061513-1a66cb80-32e7-11ea-99f9-2607f8f25790.png)
-[Риски](https://github.com/ctel-prj-mng/1-gantt-60218-Akwatore/blob/master/risks.md)
+[Риски](https://github.com/ctel-prj-mng/3-ivt-17-t1-Akwatore/blob/master/risks.md)
 
 ## ВСР
 
